@@ -8,7 +8,7 @@ De instructies van deze opdracht staan in [INSTRUCTIONS](https://github.com/fdnd
 ## Titel Website
 Welke website heb je getest? Beschrijf de website en voeg een screenshot toe.
 
-Voor de Performance Audit heb ik gekozen voor de website van [Pathé](https://www.pathe.nl/nl)
+Voor de Performance Audit heb ik gekozen voor de website van Pathé.
 <img width="1918" height="1000" alt="image" src="https://github.com/user-attachments/assets/aca11bb9-7d76-452d-97dc-189bc5673392" />
 
 
